@@ -21,8 +21,8 @@ of string into bold text. The string has '#' and '*' on the long descriptions li
 
 
 ## Links:
-[My Code](https://github.com/TheoBueno/Module_15/blob/main/FetchDataReact/DnD_Fetch.jsx)
-[Repository](https://github.com/TheoBueno/Module_15/tree/main/FetchDataReact.git/)
+[My Code](https://github.com/TheoBueno/D-D_5e/blob/main/src/DnD_Fetch.jsx)
+[Repository](https://github.com/TheoBueno/D-D_5e/tree/main.git/)
 
 ## License information: 
 
