@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# /build - to Ignore production ready page uncomment
 
 # misc
 .DS_Store
