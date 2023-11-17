@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/D-D_5e/static/css/main.303d2b4d.css",
+    "main.js": "/D-D_5e/static/js/main.573020af.js",
+    "static/js/787.3dbfe5cb.chunk.js": "/D-D_5e/static/js/787.3dbfe5cb.chunk.js",
+    "static/media/DiceCloseup.jpg": "/D-D_5e/static/media/DiceCloseup.b0db439316af61496e48.jpg",
+    "static/media/Logo - Just Wolves.png": "/D-D_5e/static/media/Logo - Just Wolves.b80b61fcacd55343f12d.png",
+    "static/media/DiceSet.jpg": "/D-D_5e/static/media/DiceSet.239e11cf4fe0dcfb281a.jpg",
+    "static/media/d20_logo-blue.png": "/D-D_5e/static/media/d20_logo-blue.9f56de500e691718b624.png",
+    "static/media/LoboGuara_d20_Logo-Hex.png": "/D-D_5e/static/media/LoboGuara_d20_Logo-Hex.4db44709e4af9c7cf0da.png",
+    "index.html": "/D-D_5e/index.html",
+    "main.303d2b4d.css.map": "/D-D_5e/static/css/main.303d2b4d.css.map",
+    "main.573020af.js.map": "/D-D_5e/static/js/main.573020af.js.map",
+    "787.3dbfe5cb.chunk.js.map": "/D-D_5e/static/js/787.3dbfe5cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303d2b4d.css",
+    "static/js/main.573020af.js"
+  ]
+}
